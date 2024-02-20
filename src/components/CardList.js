@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "./Card";
-import { robots } from "../robots";
 
 const CardList = ({ robots }) => {
   //copy of an array
